@@ -1,0 +1,14 @@
+C:\Users\cmrea\repos\MethodsExercise\MethodsExercise1\MethodsExercise1\bin\Debug\netcoreapp3.1\MethodsExercise1.exe
+C:\Users\cmrea\repos\MethodsExercise\MethodsExercise1\MethodsExercise1\bin\Debug\netcoreapp3.1\MethodsExercise1.deps.json
+C:\Users\cmrea\repos\MethodsExercise\MethodsExercise1\MethodsExercise1\bin\Debug\netcoreapp3.1\MethodsExercise1.runtimeconfig.json
+C:\Users\cmrea\repos\MethodsExercise\MethodsExercise1\MethodsExercise1\bin\Debug\netcoreapp3.1\MethodsExercise1.runtimeconfig.dev.json
+C:\Users\cmrea\repos\MethodsExercise\MethodsExercise1\MethodsExercise1\bin\Debug\netcoreapp3.1\MethodsExercise1.dll
+C:\Users\cmrea\repos\MethodsExercise\MethodsExercise1\MethodsExercise1\bin\Debug\netcoreapp3.1\MethodsExercise1.pdb
+C:\Users\cmrea\repos\MethodsExercise\MethodsExercise1\MethodsExercise1\obj\Debug\netcoreapp3.1\MethodsExercise1.csproj.AssemblyReference.cache
+C:\Users\cmrea\repos\MethodsExercise\MethodsExercise1\MethodsExercise1\obj\Debug\netcoreapp3.1\MethodsExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmrea\repos\MethodsExercise\MethodsExercise1\MethodsExercise1\obj\Debug\netcoreapp3.1\MethodsExercise1.AssemblyInfoInputs.cache
+C:\Users\cmrea\repos\MethodsExercise\MethodsExercise1\MethodsExercise1\obj\Debug\netcoreapp3.1\MethodsExercise1.AssemblyInfo.cs
+C:\Users\cmrea\repos\MethodsExercise\MethodsExercise1\MethodsExercise1\obj\Debug\netcoreapp3.1\MethodsExercise1.csproj.CoreCompileInputs.cache
+C:\Users\cmrea\repos\MethodsExercise\MethodsExercise1\MethodsExercise1\obj\Debug\netcoreapp3.1\MethodsExercise1.dll
+C:\Users\cmrea\repos\MethodsExercise\MethodsExercise1\MethodsExercise1\obj\Debug\netcoreapp3.1\MethodsExercise1.pdb
+C:\Users\cmrea\repos\MethodsExercise\MethodsExercise1\MethodsExercise1\obj\Debug\netcoreapp3.1\MethodsExercise1.genruntimeconfig.cache
